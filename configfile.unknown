@@ -1,0 +1,14 @@
+[default]
+phrase=USD
+sections=
+months=0
+
+[case1]
+phrase=linda
+sections=theater,
+months=0
+
+[case2]
+phrase=dollar
+sections=business,arts
+months=10
