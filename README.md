@@ -2,10 +2,6 @@
 
 The tasks for the challenge is mentioned in `RPA Challenge - Fresh news.pdf`
 
-## Flow chart
-
-The flow and various functionalities has been pictorically explained in `flowchart.png`
-
 ## Configfile
 
 Configuration file with search_phrase, sections and months
